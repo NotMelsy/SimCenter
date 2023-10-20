@@ -24,7 +24,7 @@ body{
 .headerrr {
     height: auto;
     display: flex;
-    background-color: #278FD1;
+    background-color: #00000000;
     align-items: center;
     gap: 3rem;
     font-size: 3rem;
@@ -55,6 +55,26 @@ a:hover {
 .logo {
     margin-left: 0rem;
     margin-right: auto;
-    height: 6rem;
+    height: 5.9rem;
     width: auto;
 }
+
+/* END HEADER */
+
+/* START GAME BUTTON */
+.button{
+background-color: white;
+width: 250px;
+text-align: center;
+border-radius: 15px;
+padding: 0.5em 0;
+font-size: 1.25em;
+box-shadow: #00000040 0px 4px;
+cursor: pointer;
+color: #278FD1;
+font-weight: 700;
+font-family: sans-serif;
+}
+
+/* END START GAME BUTTON */
+
