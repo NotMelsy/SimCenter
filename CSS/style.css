@@ -37,11 +37,8 @@ body{
     gap: 4rem;
 }
 
-.right {
-    margin-right: 3rem;
-}
-
 a {
+    margin-right: 3rem;
     text-decoration: none;
     color: white;
     font-family: sans-serif;
